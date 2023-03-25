@@ -1,4 +1,4 @@
 # api_python
 Consommation d'api de vélos en python
-# installation de requests  pip install requests
-# lancement : python scripts.py
+# Installation de requests  pip install requests
+# Lancement : python scripts.py
